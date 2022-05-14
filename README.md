@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Sadaf's CV</title>
 <meta charset="UTF-8">
@@ -9,7 +8,7 @@
 
 <body>
 <h1>Sadaf Al Arabi</h1>
-<p>Computer Science Graduate</p>
+<p></p>
 
 </body>
 </html>
