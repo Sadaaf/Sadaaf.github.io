@@ -12,7 +12,12 @@
 <h1>Hi there, I am Sadaf Al Arabi.</h1>
 <br>
 <p>
-
+I like to
+  <ul>
+  <li>Code</li>
+  <li>Learn new things</li>
+  <li>Meet with new people</li>
+   </ul>
 </p>
 </div>
 </body>
