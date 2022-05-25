@@ -12,6 +12,7 @@
 <h1>Hi there, I am Sadaf Al Arabi.</h1>
 <br>
 <p>
+</div>
 I like to
   <ul>
   <li>Code</li>
@@ -19,6 +20,6 @@ I like to
   <li>Meet with new people</li>
    </ul>
 </p>
-</div>
+
 </body>
 </html>
