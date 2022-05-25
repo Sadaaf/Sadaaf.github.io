@@ -23,6 +23,4 @@ I like to
 </p>
   <br>
   <p>I have worked with python, php, mysql and some basic html, css, javascript. You can checkout my <a href="https://github.com/Sadaaf" target="_blank">github profile here</a>.I like to to think of new ideas. Creativity is what inspires me. I have a hobby of clicking pictures. You can check out my photo albums <a href="https://www.facebook.com/media/set/?set=a.420733568108500&type=3" target="_blank">here</a>.
-</body>
-</html>
 
