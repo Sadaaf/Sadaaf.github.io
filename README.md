@@ -8,7 +8,7 @@
 
 <body>
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHNnUVB7EcPBg/profile-displayphoto-shrink_800_800/0/1652988745540?e=1658966400&v=beta&t=C6ZyqKZAdf9ZUa6zB5uFbHgYxfdIU6uDVqXp1ALCnbo" width="20%" height="auto" style="border-radius=30%">
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHNnUVB7EcPBg/profile-displayphoto-shrink_800_800/0/1652988745540?e=1658966400&v=beta&t=C6ZyqKZAdf9ZUa6zB5uFbHgYxfdIU6uDVqXp1ALCnbo" style="border-radius=30%;" width="20%" height="auto">
 <h1>Hi there<br>I am Sadaf Al Arabi</h1>
 </div>
  <hr>
@@ -22,5 +22,5 @@ I like to
    </ul>
 </p>
   <br>
-  <p>I have worked with python, php, mysql and some basic html, css, javascript. You can checkout my <a href="https://github.com/Sadaaf" target="_blank">github profile here</a>.I like to to think of new ideas. Creativity is what inspires me. I have a hobby of clicking pictures. You can check out my photo albums <a href="https://www.facebook.com/media/set/?set=a.420733568108500&type=3" target="_blank">here</a>.
+  <p>I have worked with python, php, mysql and some basic html, css, javascript. You can checkout my <a href="https://github.com/Sadaaf" target="_blank">github profile here</a>.I like to to think of new ideas. Creativity is what inspires me. I have a hobby of clicking pictures. You can check out some of my photos<a href="https://www.facebook.com/media/set/?set=a.420733568108500&type=3" target="_blank">here</a>.
 
